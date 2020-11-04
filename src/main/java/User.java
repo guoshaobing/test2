@@ -2,5 +2,5 @@ public class User {
     private String name;
     private Integer age;
     private String address2;
-    private String address1;
+    private String add2;
 }
